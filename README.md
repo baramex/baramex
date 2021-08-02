@@ -10,17 +10,23 @@
 
 ▁▃▅▇ compétences ▇▅▃▁
 
-🟢 électronique avec arduino  | irl
+🟢 électronique avec arduino
+-> irl
 
-🔵 html/css                   | web
+🔵 html/css                   
+-> web
 
-🟣 node js/js                 | web/discord.js
+🟣 node js/js                 
+-> web/discord.js
 
-🟤 php                        | web
+🟤 php                        
+-> web
 
-⚪ java                       | app/plugin et mod mc
+⚪ java                       
+-> app/plugin et mod mc
 
-⚫ c/c#/c++                   | app/jeu
+⚫ c/c#/c++                   
+-> app/jeu
 
 
 
