@@ -10,7 +10,7 @@
 
 ▁▃▅▇ compétences ▇▅▃▁
 
-🟢 électronique avec arduino
+🟢 électronique avec arduino      
 -> irl
 
 🔵 html/css                   
