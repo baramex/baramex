@@ -16,8 +16,8 @@
 🔵 html/css                   
 -> web
 
-🟣 node js/js                 
--> web/discord.js
+🟣 node js/js/ts                 
+-> web/p5/discord.js
 
 🟤 php                        
 -> web
@@ -27,6 +27,8 @@
 
 ⚫ c/c#/c++                   
 -> app/jeu
+
+➡️ développeur fullstack
 
 
 
