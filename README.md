@@ -1,7 +1,7 @@
-➡️insta: <a href="https://www.instagram.com/baramex/">baramex</a>                                   
+➡️insta: <a href="https://www.instagram.com/baramex/" target="BLANK">baramex</a>                                   
 ➡️email: <a href="mailto:contact@baramex.fr">contact@baramex.fr</a>
 
-▁▃▅▇ présentation ▇▅▃▁
+<h1>▁▃▅▇ présentation ▇▅▃▁</h1>
 
 🔴 je suis baramex
 
@@ -11,7 +11,7 @@
 
 
 
-▁▃▅▇ compétences ▇▅▃▁
+<h1>▁▃▅▇ compétences ▇▅▃▁</h1>
 
 🟢 électronique avec arduino/hmi nextion editor      
 -> irl
@@ -35,12 +35,6 @@
 
 
 
-▁▃▅▇ services ▇▅▃▁
+<h1>▁▃▅▇ services ▇▅▃▁</h1>
 
 ➡️ si vous avez besoin d'aide pour un projet ou que vous voulez que je vous dev un truc, n'hésitez pas à me contacter sur contact@baramex.fr ou sur discord: Baramex#2596
-
-
-
-▁▃▅▇ projets ▇▅▃▁
-
-J'ai beaucoup de projets en programmation, à terme je les mettrais un à un dans les projects github, mais mon projet d'avenir est de devenir ingénieur en informatique et d'étudier à l'EPFL, pour ensuite travailler en freelance ou monter une startup.
