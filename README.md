@@ -1,4 +1,4 @@
-➡️insta: https://www.instagram.com/baramex/                                   
+➡️insta: <a href="https://www.instagram.com/baramex/">baramex</a>                                   
 ➡️email: <a href="mailto:contact@baramex.fr">contact@baramex.fr</a>
 
 ▁▃▅▇ présentation ▇▅▃▁
