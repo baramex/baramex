@@ -1,3 +1,5 @@
+➡️insta: https://www.instagram.com/baramex/
+
 ▁▃▅▇ présentation ▇▅▃▁
 
 🔴 je suis baramex
@@ -10,7 +12,7 @@
 
 ▁▃▅▇ compétences ▇▅▃▁
 
-🟢 électronique avec arduino      
+🟢 électronique avec arduino/hmi nextion editor      
 -> irl
 
 🔵 html/css                   
