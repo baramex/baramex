@@ -1,4 +1,5 @@
 ➡️insta: https://www.instagram.com/baramex/
+➡️email: <a href="mailto:contact@gmail.com">contact@gmail.com</a>
 
 ▁▃▅▇ présentation ▇▅▃▁
 
