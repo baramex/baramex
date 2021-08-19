@@ -1,7 +1,7 @@
 <h3>▁▃▅▇ présentation ▇▅▃▁</h3><br/>
 🔴 je suis baramex<br/>
 🟠 j'ai 14 ans<br/>
-🟡 je suis passionné par la programmation, et avant l'électronique<br/><br/>
+🟡 je suis passionné par la programmation et d'électronique<br/><br/>
 ➡️ insta: <a href="https://www.instagram.com/baramex/" target="_blank">baramex</a><br/>
 ➡️ email: <a href="mailto:contact@baramex.fr">contact@baramex.fr</a><br/><br/>
 <h3>▁▃▅▇ compétences ▇▅▃▁</h3><br/>
