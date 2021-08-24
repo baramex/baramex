@@ -1,5 +1,3 @@
-<img src="http://baramex.fr:1010/panel-image/get">
-
 <h3>▁▃▅▇ présentation ▇▅▃▁</h3><br/>
 🔴 je suis baramex<br/>
 🟠 j'ai 14 ans<br/>
