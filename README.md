@@ -8,7 +8,7 @@
 🟡 I'm french and I love programming and electronics
 
 ## Languages
-➡️ développeur fullstack<br/><br/>
+➡️ fullstack developer<br/><br/>
 <img src='https://img.icons8.com/color/452/c-plus-plus-logo.png' width='50'>
 <img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' width='50'>
 <img src='https://img.icons8.com/color/452/c-programming.png' width='50'>
