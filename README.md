@@ -5,7 +5,7 @@
 ## Presentation
 🔴 I'm Baramex<br/>
 🟠 I'm 14 years old<br/>
-🟡 I'm french and I love programming and electronics<br/><br/>
+🟡 I'm french and I love programming and electronics
 
 ## Languages
 ➡️ développeur fullstack<br/><br/>
