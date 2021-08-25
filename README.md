@@ -1,22 +1,28 @@
-<h3>▁▃▅▇ présentation ▇▅▃▁</h3><br/>
-🔴 je suis baramex<br/>
-🟠 j'ai 14 ans<br/>
-🟡 je suis passionné par la programmation et d'électronique<br/><br/>
-➡️ insta: <a href="https://www.instagram.com/baramex/" target="_blank">baramex</a><br/>
-➡️ email: <a href="mailto:contact@baramex.fr">contact@baramex.fr</a><br/><br/>
-<h3>▁▃▅▇ compétences ▇▅▃▁</h3><br/>
-🟢 électronique avec arduino/hmi nextion editor<br/>
--> irl<br/><br/>
-🔵 html/css<br/>
--> web<br/><br/>
-🟣 node js/js/ts<br/>
--> web/p5/discord.js<br/><br/>
-🟤 php<br/>
--> web<br/><br/>
-⚪ java<br/>
--> app/plugin et mod mc<br/><br/>
-⚫ c/c#/c++<br/>
--> app/jeu<br/><br/>
+## Stats
+![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
+![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
+
+## Presentation
+🔴 I'm Baramex<br/>
+🟠 I'm 14 years old<br/>
+🟡 I'm french and I love programming and electronics<br/><br/>
+
+## Languages
 ➡️ développeur fullstack<br/><br/>
-<h3>▁▃▅▇ services ▇▅▃▁</h3><br/>
-➡️ si vous avez besoin d'aide pour un projet ou que vous voulez que je vous dev un truc, n'hésitez pas à me contacter sur <a href="mailto:contact@baramex.fr">contact@baramex.fr</a> ou sur discord: Baramex#2596
+<img src='https://img.icons8.com/color/452/c-plus-plus-logo.png' width='50'>
+<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' width='50'>
+<img src='https://img.icons8.com/color/452/c-programming.png' width='50'>
+<img src='https://image.flaticon.com/icons/png/512/226/226777.png' width='50'>
+<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png' width='50'>
+<img src='https://image.flaticon.com/icons/png/512/732/732190.png' width='50'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png' width='50'>
+<img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png' width='50'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='50'>
+<img src='https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png' width='50'>
+<img src='https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png' width='50'>
+<img src='https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png' width='50'>
+
+## Contact
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='15'> baramex](https://www.instagram.com/baramex/)<br/>
+[<img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/tik_tok_logo_icon_147226.png' width='15'> baramex](https://tiktok.com/@baramex)<br/>
+[<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@baramex.fr](mailto:contact@baramex.fr)
