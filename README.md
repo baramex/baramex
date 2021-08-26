@@ -1,7 +1,6 @@
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
-![](http://localhost:10010/baramex/views)
 
 ## Presentation
 🔴 I'm Baramex<br/>
