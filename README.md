@@ -1,7 +1,6 @@
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
-[![](http://baramex.fr:10010/baramex/nb-downloads)]()
 ![](http://baramex.fr:10010/baramex/nb-downloads)
 ![](http://baramex.fr:10010/baramex/total-size)
 ![](http://baramex.fr:10010/baramex/nb-commits)<br/>
