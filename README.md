@@ -29,4 +29,5 @@
 ## Contact
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='15'> baramex](https://www.instagram.com/baramex/)<br/>
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/tik_tok_logo_icon_147226.png' width='15'> baramex](https://tiktok.com/@baramex)<br/>
-[<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@baramex.fr](mailto:contact@baramex.fr)
+[<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@baramex.fr](mailto:contact@baramex.fr)<br/>
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png' width='15'> Baramex](https://www.youtube.com/channel/UC4yA13w8pjE_O6jeMWhxNUg)
