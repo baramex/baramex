@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          IMG_ALT: <alt-message>
+          IMG_ALT: downloads
