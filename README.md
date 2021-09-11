@@ -26,7 +26,7 @@
 <img src='https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png' width='50'>
 <img src='https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png' width='50'>
 
-## Contact
+<h2 id='contact'>Contact</h2>
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='15'> baramex](https://www.instagram.com/baramex/)<br/>
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/tik_tok_logo_icon_147226.png' width='15'> baramex](https://tiktok.com/@baramex)<br/>
 [<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@baramex.fr](mailto:contact@baramex.fr)<br/>
