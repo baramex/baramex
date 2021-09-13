@@ -1,10 +1,10 @@
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
-[![](http://baramex.fr:10010/baramex/nb-downloads)](http://baramex.fr:10010/baramex/nb-downloads)
-[![](http://baramex.fr:10010/baramex/total-size)](http://baramex.fr:10010/baramex/total-size)
-[![](http://baramex.fr:10010/baramex/nb-commits)](http://baramex.fr:10010/baramex/nb-commits)<br/>
-[![](http://baramex.fr:10010/baramex/languages)](http://baramex.fr:10010/baramex/languages)
+[![](http://baramex.fr:10010/baramex/nb-downloads?e)](http://baramex.fr:10010/baramex/nb-downloads)
+[![](http://baramex.fr:10010/baramex/total-size?e)](http://baramex.fr:10010/baramex/total-size)
+[![](http://baramex.fr:10010/baramex/nb-commits?e)](http://baramex.fr:10010/baramex/nb-commits)<br/>
+[![](http://baramex.fr:10010/baramex/languages?e)](http://baramex.fr:10010/baramex/languages)
 
 ## Presentation
 🔴 I'm Baramex<br/>
