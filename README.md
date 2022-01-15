@@ -1,15 +1,12 @@
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
-[![](http://github-badge.baramex.me/baramex/nb-downloads)](http://github-badge.baramex.me/baramex/nb-downloads)
-[![](http://github-badge.baramex.me/baramex/total-size)](http://github-badge.baramex.me/baramex/total-size)
-[![](http://github-badge.baramex.me/baramex/nb-commits)](http://github-badge.baramex.me/baramex/nb-commits)<br/>
-[![](http://github-badge.baramex.me/baramex/languages)](http://github-badge.baramex.me/baramex/languages)
 
 ## Presentation
 🔴 I'm Baramex<br/>
-🟠 I'm 14 years old<br/>
-🟡 I'm french and I love programming and electronics
+🟡 I'm french and I prefer the backend but I also do front end, I do minecraft and discord development.<br/>
+🟢 I started with electronics with C and arduino.<br/>
+🟣 I learn by myself and I would like to integrate a computer engineering school.
 
 ## Languages
 ➡️ fullstack developer<br/><br/>
