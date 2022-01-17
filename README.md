@@ -1,3 +1,6 @@
+➡️ i work on a smp/rpg minecraft server (english and french) with empires... (in privates repos)
+🔗 [new empires' discord server](https://discord.gg/88ZVH6auWT)
+
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)
