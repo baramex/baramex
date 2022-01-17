@@ -1,5 +1,9 @@
-➡️ i work on a smp/rpg minecraft server (english and french) with empires... (in privates repos)
-🔗 [new empires' discord server](https://discord.gg/88ZVH6auWT)
+## Projects
+➡️ I work on a smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos)
+🔗 [new empires' discord server](https://discord.gg/88ZVH6auWT)<br/>
+➡️ I work on a multiplayer bomberman (app web)<br/>
+➡️ I work sometimes on small projects (p5js, webcanvas, threejs...)<br/>
+➡️ I work on minecarft mods ([curse forge](https://www.curseforge.com/members/baratexor/projects))
 
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
@@ -11,7 +15,7 @@
 🟢 I started with electronics with C and arduino.<br/>
 🟣 I learn by myself and I would like to integrate a computer engineering school.
 
-## Languages
+## Languages/fwk
 ➡️ fullstack developer<br/><br/>
 <img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' width='50'>
 <img src='https://img.icons8.com/color/452/c-programming.png' width='50'>
