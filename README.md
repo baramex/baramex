@@ -10,7 +10,6 @@
 
 ## Languages
 ➡️ fullstack developer<br/><br/>
-<img src='https://img.icons8.com/color/452/c-plus-plus-logo.png' width='50'>
 <img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' width='50'>
 <img src='https://img.icons8.com/color/452/c-programming.png' width='50'>
 <img src='https://image.flaticon.com/icons/png/512/226/226777.png' width='50'>
