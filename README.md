@@ -12,7 +12,7 @@
 ## Presentation
 🔴 I'm Baramex<br/>
 🟡 I'm french and I prefer the backend but I also do front end, I do minecraft and discord development.<br/>
-🟢 I started with electronics with C and arduino.<br/>
+🟢 I have started with electronics with C and arduino.<br/>
 🟣 I learn by myself and I would like to integrate a computer engineering school.
 
 ## Languages/fwk
