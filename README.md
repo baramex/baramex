@@ -1,9 +1,10 @@
 ## Projects
-➡️ I work on a smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos)
+➡️ I'm working on an ouranos project (app web, discord bot) +1k members
+🔗 [ouranos current discord server](https://discord.gg/6rvTAf5XXy)<br/>
+➡️ I'm working on a smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos)
 🔗 [new empires' discord server](https://discord.gg/88ZVH6auWT)<br/>
-➡️ I work on a multiplayer bomberman (app web)<br/>
-➡️ I work sometimes on small projects (p5js, webcanvas, threejs...)<br/>
-➡️ I work on minecarft mods ([curse forge](https://www.curseforge.com/members/baratexor/projects))
+➡️ I'm working on a multiplayer bomberman (app web)<br/>
+➡️ I'm working on minecarft mods ([curse forge](https://www.curseforge.com/members/baratexor/projects))
 
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
