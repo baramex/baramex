@@ -9,7 +9,7 @@
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)<br/>
-[![](https://github-readme-stats.vercel.app/api?username=baramex&count_private=true&show_icons=true)](https://github.com/baramex)
+[![](https://github-readme-stats.vercel.app/api?username=baramex&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/baramex)
 
 ## Presentation
 🔴 I'm Baramex<br/>
