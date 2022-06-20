@@ -1,21 +1,23 @@
 ## Projects
-➡️ I'm working on an ouranos project (app web, discord bot) +1k members
-🔗 [ouranos discord server](https://discord.gg/6rvTAf5XXy)<br/>
-➡️ I'm working on a smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos)
-🔗 [new empires discord server](https://discord.gg/88ZVH6auWT)<br/>
-➡️ I'm working on a multiplayer bomberman (app web)<br/>
-➡️ I'm working on minecarft mods ([curse forge](https://www.curseforge.com/members/baratexor/projects))
+### onlines
+- <ins>ouranos</ins>: a discord server about IT and cybersecu +1k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)<br/>
+- <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
+- <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://www.chatblast.baramex.me)
+- <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](http://mig.baramex.me)
+### in dev
+- <ins>new empires</ins>: smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos) [🔗 new empires discord server](https://discord.gg/88ZVH6auWT)<br/>
+- a multiplayer bomberman (app web)<br/>
+
+## Presentation
+🔴 I'm Baramex<br/>
+🟡 I'm french and I love web backend (in node js 😀).<br/>
+🟢 I have started with electronics and arduino (C).<br/>
+🟣 I am learning by myself.
 
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)<br/>
 [![](https://github-readme-stats.vercel.app/api?username=baramex&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/baramex)
-
-## Presentation
-🔴 I'm Baramex<br/>
-🟡 I'm french and I prefer the backend but I also do front end, I do minecraft and discord development.<br/>
-🟢 I have started with electronics with C and arduino.<br/>
-🟣 I learn by myself and I would like to integrate a computer engineering school.
 
 ## Languages/fwk
 ➡️ fullstack developer<br/><br/>
