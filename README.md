@@ -17,7 +17,7 @@ Hey, moi c'est Baramex et de mon temps libre, je développe. La plupart de mes c
 ## Stats
 ![](https://img.shields.io/github/followers/baramex?style=for-the-badge)
 ![](https://img.shields.io/github/stars/baramex?style=for-the-badge)<br/>
-[![](https://github-readme-stats.vercel.app/api?username=baramex&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/baramex)
+[![](https://github-readme-stats.vercel.app/api?username=baramex&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/baramex)
 
 ## Languages/fwk
 ➡️ fullstack developer<br/><br/>
