@@ -2,7 +2,7 @@
 ### onlines
 - <ins>ouranos</ins>: a discord server about IT and cybersecu +1k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
-- <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me)
+- <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
 - <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
 - others projets in my github
 ### in dev
