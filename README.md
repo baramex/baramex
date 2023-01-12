@@ -4,6 +4,7 @@
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
 - <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
 - <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
+- <ins>OpenAI GPT-3 Discord Bot</ins>: a discord bot to open threaded discussions and generate images [🔗 top.gg](https://top.gg/bot/1058008641959112796) | [🔗 support server](https://discord.gg/u8ehamrEea)
 - others projets in my github
 ### in dev
 - <ins>new empires</ins>: smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos) [🔗 new empires discord server](https://discord.gg/88ZVH6auWT)
@@ -11,7 +12,7 @@
 - a multiplayer bomberman (app web)
 
 ## Presentation (in french)
-Hey, moi c'est Baramex et de mon temps libre, je développe. La plupart de mes codes sont open-source et sur github: je fais des sites internet, des mods minecraft, des bots discord, des applications de bureau et des programmes arduino. Je fais tout ça grâce au node js/ts, html/css, java et C ! Je travail sur des petits projets comme chatblast ou mig et puis sur des plus gros projets comme ouranos ou alors hostblast. Je n'ai actuellement aucun revenu de mes différents projets et ça fait 4-5 ans que j'ai commencé la programmation.<br/>
+Hey, moi c'est Baramex et de mon temps libre, je développe. La plupart de mes codes sont open-source et sur github: je fais des sites internet, des mods minecraft, des bots discord, des applications de bureau et des programmes arduino. Je fais tout ça grâce au node js/ts, html/css, java et C ! Je travail sur des petits projets comme chatblast ou mig et puis sur des plus gros projets comme ouranos, le bot OpenAI GPT-3 ou alors hostblast. Je n'ai actuellement aucun revenu de mes différents projets et ça fait 4-5 ans que j'ai commencé la programmation.<br/>
 <a href="https://www.patreon.com/bePatron?u=61479047" data-patreon-widget-type="become-patron-button">Si vous voulez me soutenir 😀</a>
 
 ## Stats
