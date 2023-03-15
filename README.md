@@ -1,10 +1,10 @@
 ## Projects
 ### onlines
-- <ins>ouranos</ins>: a discord server about IT and cybersecu +1.9k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
+- <ins>ouranos</ins>: a discord server about IT and cybersecu +2k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
 - <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
 - <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
-- <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT [🔗 top.gg](https://top.gg/bot/1058008641959112796) | [🔗 support server](https://discord.gg/u8ehamrEea)
+- <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT + 6k servers [🔗 top.gg](https://top.gg/bot/1058008641959112796) | [🔗 support server](https://discord.gg/u8ehamrEea)
 - others projets in my github
 ### in dev
 - <ins>new empires</ins>: smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos) [🔗 new empires discord server](https://discord.gg/88ZVH6auWT)
