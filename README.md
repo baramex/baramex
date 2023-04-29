@@ -5,6 +5,8 @@
 - <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
 - <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
 - <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT +6k servers [🔗 website](https://smartcord.ai) | [🔗 support server](https://discord.gg/u8ehamrEea)
+- <ins>Encrier Bleu</ins> (web developer): news website [🔗 website](https://encrierbleu.fr)
+- <ins>NahelTBesac</ins> (web developer): delivery CMS [🔗 website](https://naheltbesac.fr)
 - others projets in my github
 ### in dev
 - <ins>new empires</ins>: smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos) [🔗 new empires discord server](https://discord.gg/88ZVH6auWT)
