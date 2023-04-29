@@ -12,7 +12,7 @@
 - a multiplayer bomberman (app web)
 
 ## Presentation (in french)
-Hey, moi c'est Baramex et de mon temps libre, je développe. La plupart de mes codes sont open-source et sur github: je fais des sites internet, des mods minecraft, des bots discord, des applications de bureau et des programmes arduino. Je fais tout ça grâce au node js/ts, html/css, java et C ! Je travail sur des petits projets comme chatblast ou mig et puis sur des plus gros projets comme ouranos, le bot OpenAI GPT-3 ou alors hostblast. Je n'ai actuellement aucun revenu de mes différents projets et ça fait 4-5 ans que j'ai commencé la programmation.<br/>
+Hey, moi c'est Baramex et de mon temps libre, je développe. La plupart de mes codes sont open-source et sur github: je fais des sites internet, des mods minecraft, des bots discord, des applications de bureau et des programmes arduino. Je fais tout ça grâce au node js/ts, html/css, java et C ! Je travail sur des petits projets comme chatblast ou mig et puis sur des plus gros projets comme ouranos, le bot SmartCord ou alors hostblast. Je n'ai actuellement aucun revenu de mes différents projets et ça fait 4-5 ans que j'ai commencé la programmation.<br/>
 <a href="https://www.patreon.com/bePatron?u=61479047" data-patreon-widget-type="become-patron-button">Si vous voulez me soutenir 😀</a>
 
 ## Stats
