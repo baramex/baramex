@@ -1,10 +1,10 @@
 ## Projects
 ### onlines
-- <ins>ouranos</ins>: a discord server about IT and cybersecu +2k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
+- <ins>ouranos</ins>: a discord server about IT and cybersecu 3k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
 - <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
 - <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
-- <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT +6k servers [🔗 website](https://smartcord.ai) | [🔗 support server](https://discord.gg/u8ehamrEea)
+- <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT +18k servers [🔗 website](https://smartcord.ai) | [🔗 support server](https://discord.gg/u8ehamrEea)
 - <ins>Encrier Bleu</ins> (web developer): news website [🔗 website](https://encrierbleu.fr)
 - <ins>NahelTBesac</ins> (web developer): delivery CMS [🔗 website](https://naheltbesac.fr)
 - others projets in my github
