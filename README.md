@@ -1,3 +1,5 @@
+### [🔗 My Portfolio](https://baramex.me)
+
 ## Projects
 ### Online
 - <ins>ouranos</ins>: a discord server about IT and cybersecu 3k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
