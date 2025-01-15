@@ -9,6 +9,7 @@
 - <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT +20k servers [🔗 website](https://smartcord.ai) | [🔗 support server](https://discord.gg/u8ehamrEea)
 - <ins>Encrier Bleu</ins> (web developer): news website [🔗 website](https://encrierbleu.fr)
 - <ins>NahelTBesac</ins> (web developer): delivery CMS [🔗 website](https://naheltbesac.fr)
+- <ins>Swiss public transport</ins> (garmin iq widget) [🔗 garmin iq](https://apps.garmin.com/en-US/apps/13ada27b-9e83-4518-b262-ad82590c074a)
 - others projets in my github
 ### In development
 - <ins>new empires</ins>: smp/rpg minecraft server (english and french) with empires... (discord bot, launcher desktop app, minecraft plugin/mod and website) (in private repos) [🔗 new empires discord server](https://discord.gg/88ZVH6auWT)
