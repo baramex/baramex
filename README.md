@@ -17,6 +17,9 @@
 - a multiplayer bomberman (app web)
 - ...
 
+## Studies
+I graduated from in Geneva and have been doing a bachelor's degree in electrical and electronic engineering at EPFL since 2025.
+
 ## Presentation
 Helloooo I’m Baramex !!! I code on my free time 💻, I like nerdy things 🤓 like arduinos and electronic components and most of all: cats 🐱 and trains 🚂. Some of my projects are available on my github: I code websites, minecraft mods/plugins, discord bots, applications, arduino codes and some other projects. My favorite languages are JavaScript, Rust, C# and Java ! I’m working on small projects like chatblast or mig as well as larger ones like ouranos, hostblast or SmartCord. I started programming at the age of 10 (~2016) with C++ for arduino cards.<br/>
 
