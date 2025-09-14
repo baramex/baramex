@@ -2,7 +2,7 @@
 
 Want to work with me ? [Upwork](https://www.upwork.com/freelancers/~01c13d4ea01bb5fe06) / [Fiverr](https://www.fiverr.com/s/jjZAokZ)
 
-## Projects
+## Some projects
 ### Online
 - <ins>ouranos</ins>: a discord server about IT and cybersecu 3k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
