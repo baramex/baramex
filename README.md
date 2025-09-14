@@ -1,5 +1,7 @@
 ### [🔗 My Portfolio](https://baramex.me)
 
+Want to work with me ? [Upwork](https://www.upwork.com/freelancers/~01c13d4ea01bb5fe06) / [Fiverr](https://www.fiverr.com/s/jjZAokZ)
+
 ## Projects
 ### Online
 - <ins>ouranos</ins>: a discord server about IT and cybersecu 3k members [🔗 ouranos discord server](https://discord.gg/6rvTAf5XXy)
