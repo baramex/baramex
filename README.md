@@ -1,4 +1,4 @@
-### [🔗 My Portfolio](https://baramex.me)
+### [🔗 My Portfolio](https://rolf-rubens.me)
 
 Want to work with me ? [Upwork](https://www.upwork.com/freelancers/~01c13d4ea01bb5fe06) / [Fiverr](https://www.fiverr.com/s/jjZAokZ)
 
@@ -6,8 +6,8 @@ Want to work with me ? [Upwork](https://www.upwork.com/freelancers/~01c13d4ea01b
 ### Online
 - <ins>ouranos</ins>: a discord server about IT and cybersecu 3k members [🔗 ouranos discord server](https://discord.gg/b5rfayzhmJ)
 - <ins>trackers mod</ins>: a mod multiplayer mod minecraft [🔗 curse forge](https://www.curseforge.com/minecraft/mc-mods/trackers-mod-by-baramex) [🔗 github](https://github.com/baramex/trackers-mod-mc)
-- <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.baramex.me) (update v3: integrations)
-- <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.baramex.me)
+- <ins>chatblast</ins>: an online chatbox [🔗 chatblast](https://chatblast.rolf-rubens.me) (update v3: integrations)
+- <ins>mig</ins>: a image (svg/img) generator for minecraft (crafting table gui, for wikis) [🔗 mig](https://mig.rolf-rubens.me)
 - <ins>SmartCord AI</ins>: a discord bot powered by ChatGPT +20k servers [🔗 website](https://smartcord.ai) | [🔗 support server](https://discord.gg/u8ehamrEea)
 - <ins>Encrier Bleu</ins> (web developer): news website [🔗 website](https://encrierbleu.fr)
 - <ins>NahelTBesac</ins> (web developer): delivery CMS [🔗 website](https://naheltbesac.fr)
@@ -39,6 +39,6 @@ Helloooo I’m Baramex !!! I code on my free time 💻, I like nerdy things 🤓
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='15'> baramex](https://www.instagram.com/baramex/)<br/>
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/tik_tok_logo_icon_147226.png' width='15'> baramex](https://tiktok.com/@baramex)<br/>
 [<img src="https://styles.redditmedia.com/t5_3errm/styles/communityIcon_626lcjroufc61.png?width=256&amp;s=649b71858126bcbb3e49b57ce6ec640f5e7ecba4" style="border-radius: 50%;" width="15"> baratexor (curse forge)](https://www.curseforge.com/members/baratexor/projects)<br/>
-[<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@baramex.me](mailto:contact@baramex.me)<br/>
+[<img src='https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico' width='15'> contact@rolf-rubens.me](mailto:contact@baramex.me)<br/>
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png' width='15'> Baramex](https://www.youtube.com/channel/UC4yA13w8pjE_O6jeMWhxNUg)<br/>
 <img src='https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png' width='15'> baramex
